@@ -97,9 +97,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Least square method for chemical engineering Problem by MATLAB/OCTAVE Part-3](https://youtu.be/fL2SzqFdSP0)
 - [Linearization of Non-Linear equation  and Linear regression or Least square regression](https://youtu.be/ixmdbtb3YFw)
 
-- 
-- 
-- 
+
 
 #### Regression Techniques
 - [Least Square Method](https://youtube.com/shorts/XIVVoT842kw)
@@ -107,7 +105,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Least Squares Regression](https://youtu.be/7TR5pzf1EiI)
 - [Least Square Polynomial Fitting](https://youtu.be/HJBQsfa0qp0)
 - [What is least squares regression and residuals? ](https://youtube.com/shorts/x00BaYhisAA)
-- 
+
 
 📁 Notebook Directory: `notebooks/interpolation_regression/`
 
