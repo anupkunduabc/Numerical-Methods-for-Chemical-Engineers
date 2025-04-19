@@ -99,7 +99,7 @@ This repository provides a structured set of Python-based resources to understan
 - One-Dimensional Heat Flow Equation
   - Explicit Scheme
   - Implicit Scheme (Crank-Nicholson Method)
-  - [CRANK - NICHOLSON METHOD  partial differential equations Heat equations][https://youtu.be/VYoxEqphmLU]
+  - [CRANK - NICHOLSON METHOD  partial differential equations Heat equations](https://youtu.be/VYoxEqphmLU)
 
 📁 Notebook Directory: `notebooks/PDE/`
 
