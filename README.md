@@ -17,7 +17,8 @@ This repository provides a structured set of Python-based resources to understan
 
 #### Linear Algebraic Systems
 - [Gauss Elimination Method](https://youtu.be/oPw4kXUt_zk)
-- Matrix Inversion Method
+- [Matrix Inversion Method](https://youtu.be/gFWOq6r9CRw)
+- [Tridiagonal Matrix for Linear Equations](https://youtu.be/-9cYv4Ozw4w)
 - Gauss-Seidel Iterative Method
 - Gauss-Jordan Method
 - [Conditions for Solutions of Linear Algebraic Equations](https://youtube.com/shorts/N4oOt9hlsxg)
@@ -30,12 +31,21 @@ This repository provides a structured set of Python-based resources to understan
 - [LU Decomposition: system of Linear Equations](https://youtu.be/Zgn7YqGkQC8)
 - [Gauss Elimination  & Gauss Jordon & Cramer’s rule](https://youtu.be/9ajJD3DpidI)
 - [Gauss Jacobi & Gauss Seidel Method for solving Linear Equations](https://youtu.be/zOnWgYzaoBc)
+- [LU decomposition or LU factorization](https://youtu.be/pn6-Y0LWjhM)
+- [Cramer's Rule - 3x3 Linear System ](https://youtu.be/SfLVYQ94CCI)
+- [Gauss - Jacobi Method](https://youtu.be/DRGIk_33_Pw)
+- [Gauss-Seidel Method for Solving Linear Equations](https://youtu.be/R_Aex-30VfE)
+- 
 - 
 
 #### Nonlinear Algebraic & Transcendental Equations
 - [Bisection Method](https://youtube.com/shorts/_9eis44ow34)
+- [Bisection Method for Solving Nonlinear Equations ](https://youtu.be/-K12KfLNs3c)
+- [Newton-Raphson method for systems of simultaneous nonlinear equations](https://youtu.be/Oqn3HapIES4)
 - [Newton-Raphson Method](https://youtu.be/C29C7s5UOwA)
 - [Newton Raphson Method](https://youtube.com/shorts/zuumVucpgTY)
+- [Finding the Cube Root of 20 by Newton Raphson Method](https://youtu.be/0HhcfxbKli8)
+- [NR Method](https://youtu.be/Y9PqdUukHOc)
 - Secant Method
 - [Regula Falsi Method / False Position Method](https://youtu.be/3Az6Dum5c7Q)
 - [Regula Falsi Method](https://youtube.com/shorts/i33bxubrBLE)
