@@ -18,11 +18,13 @@ This repository provides a structured set of Python-based resources to understan
 - Matrix Inversion Method
 - Gauss-Seidel Iterative Method
 - Gauss-Jordan Method
+- [Reactor mass balance : Gauss Seidel Method  : MATLAB](https://youtu.be/ZtrqIr3SC_k)
 
 #### Nonlinear Algebraic & Transcendental Equations
 - Bisection Method
 - Newton-Raphson Method
 - Secant Method
+- [Friction Factor and Pressure drop Calculation: Newton Raphson Method](https://youtu.be/om2nFFVSbvE)
 
 📁 Notebook Directory: `notebooks/solution_of_equations/`
 
@@ -33,6 +35,14 @@ This repository provides a structured set of Python-based resources to understan
 #### Interpolation Methods
 - Newton's Forward and Backward Polynomials
 - Lagrange Interpolation
+- [Lagrange's Interpolation: MATLAB][https://youtu.be/yvxtCvVH9bs]
+- [Least square method for chemical engineering Problem by hand calculation Part -1](https://youtu.be/LDfrT_KJAnY)
+- [Least square method for chemical engineering Problem by MATLAB/OCTAVE Part-3](https://youtu.be/fL2SzqFdSP0)
+- [Linearization of Non-Linear equation  and Linear regression or Least square regression](https://youtu.be/ixmdbtb3YFw)
+- [Solving a system of linear equations using Excel solver](https://youtu.be/zOnWgYzaoBc)
+- 
+- 
+- 
 
 #### Regression Techniques
 - Linear Regression
@@ -59,6 +69,14 @@ This repository provides a structured set of Python-based resources to understan
 - Taylor Series Method
 - Fourth-Order Runge-Kutta Method
 - Multi-Step Methods: Milne’s Method and Adams-Bashforth Method
+- [Unsteady mass Balance: Mixing Tank (single first order ODE) : RK4 Methods  MATLAB](https://youtu.be/XcwJ3dqtarc)
+- [Unsteady mass Balance: Mixing Tank problem (simultaneous first order ODE) : RK4 Methods :  Part-1](https://youtu.be/2zv1wy7RvkY)
+- [Mixing Tank problem simultaneous first order ODE RK4 Methods MATLAB PART-2](https://youtu.be/FHHd_8zt4tM)
+- [Unsteady mass Balance: Mixing Tank (single first order ODE) : RK4 Methods  MATLAB](https://youtu.be/XcwJ3dqtarc)
+
+- 
+- 
+- 
 
 📁 Notebook Directory: `notebooks/ODE/`
 
@@ -71,6 +89,7 @@ This repository provides a structured set of Python-based resources to understan
 - One-Dimensional Heat Flow Equation
   - Explicit Scheme
   - Implicit Scheme (Crank-Nicholson Method)
+  - [CRANK - NICHOLSON METHOD  partial differential equations Heat equations][https://youtu.be/VYoxEqphmLU]
 
 📁 Notebook Directory: `notebooks/PDE/`
 
