@@ -19,7 +19,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Gauss Elimination Method](https://youtu.be/oPw4kXUt_zk)
 - [Matrix Inversion Method](https://youtu.be/gFWOq6r9CRw)
 - [Tridiagonal Matrix for Linear Equations](https://youtu.be/-9cYv4Ozw4w)
-- Gauss-Seidel Iterative Method
+- [Gauss-Seidel Iterative Method](https://youtu.be/G2SX_FJU0Eg)
 - [Gauss Jacobi method ](https://youtu.be/8E8O1nH9dKQ)
 - [Gauss-Jordan Method](https://youtu.be/6ih6b_nxkP4)
 - [Inverse Matrix by Gauss-Jordan Elimination](https://youtu.be/3nJl8qczioA)
@@ -54,11 +54,14 @@ This repository provides a structured set of Python-based resources to understan
 - Secant Method
 - [Regula Falsi Method / False Position Method](https://youtu.be/3Az6Dum5c7Q)
 - [Regula Falsi Method](https://youtube.com/shorts/i33bxubrBLE)
+- [Regula Falsi Method](https://youtu.be/tWmP2uml13Q)
 - [Bisection method to solve nonlinear equations](https://youtu.be/_nPNaxBnft4)
 - [Friction Factor and Pressure drop Calculation: Newton Raphson Method](https://youtu.be/om2nFFVSbvE)
 - [Friction Factor calculation by MATLAB Using the Colebrook Equation](https://youtu.be/Jm-30TlsBWI)
 - [Secant Method to Solve Non-Linear Equation](https://youtu.be/whZHk17TcFo)
 - [Multivariable Newton-Raphson method for solving  two non-linear equations](https://youtu.be/1Mjp86-l9uY)
+- [Fixed Point Iteration Method](https://youtu.be/iQWtZKvhoaM)
+- 
 
 📁 Notebook Directory: `notebooks/solution_of_equations/`
 
