@@ -35,7 +35,7 @@ This repository provides a structured set of Python-based resources to understan
 #### Interpolation Methods
 - Newton's Forward and Backward Polynomials
 - Lagrange Interpolation
-- [Lagrange's Interpolation: MATLAB][https://youtu.be/yvxtCvVH9bs]
+- [Lagrange's Interpolation: MATLAB](https://youtu.be/yvxtCvVH9bs)
 - [Least square method for chemical engineering Problem by hand calculation Part -1](https://youtu.be/LDfrT_KJAnY)
 - [Least square method for chemical engineering Problem by MATLAB/OCTAVE Part-3](https://youtu.be/fL2SzqFdSP0)
 - [Linearization of Non-Linear equation  and Linear regression or Least square regression](https://youtu.be/ixmdbtb3YFw)
