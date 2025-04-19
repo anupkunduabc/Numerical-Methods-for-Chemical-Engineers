@@ -43,6 +43,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Gaussian Elimination Method | system of linear equation Gauss Elimination](https://youtu.be/2loQdrK2BI8)
 - [Example of Steady State Mass balance Three Reactors System ](https://youtu.be/pIjmFIol7TI)
 - [Why Gauss-Seidel Method Fails | Convergence Condition Explained with Example](https://youtu.be/Yfxqh6R2g2k)
+- [Define partial and complete pivoting in the solution of linear simultaneous equations.](https://youtube.com/shorts/YXA7acfPunk)
 
 
 #### Nonlinear Algebraic & Transcendental Equations
@@ -57,8 +58,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Newton-Raphson Method Explained](https://youtu.be/jsMadp2kW5g)
 - [Newton-Raphson Method for Single Variable Nonlinear Equation ](https://youtu.be/W-sC2f6Ob-k)
 - [Newton-Raphson Method for Multivariable Nonlinear System](https://youtu.be/d3sCWoXQzmY)
-- 
-- [Secant Method](https://youtu.be/pK1vjsa4a0c)
+-  [Secant Method](https://youtu.be/pK1vjsa4a0c)
 - [Regula Falsi Method / False Position Method](https://youtu.be/3Az6Dum5c7Q)
 - [Regula Falsi Method](https://youtube.com/shorts/i33bxubrBLE)
 - [Regula Falsi Method](https://youtu.be/tWmP2uml13Q)
@@ -68,7 +68,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Secant Method to Solve Non-Linear Equation](https://youtu.be/whZHk17TcFo)
 - [Multivariable Newton-Raphson method for solving  two non-linear equations](https://youtu.be/1Mjp86-l9uY)
 - [Fixed Point Iteration Method](https://youtu.be/iQWtZKvhoaM)
-- 
+  
 
 📁 Notebook Directory: `notebooks/solution_of_equations/`
 
@@ -97,6 +97,8 @@ This repository provides a structured set of Python-based resources to understan
 - Polynomial Regression
 - [Least Squares Regression](https://youtu.be/7TR5pzf1EiI)
 - [Least Square Polynomial Fitting](https://youtu.be/HJBQsfa0qp0)
+- [What is least squares regression and residuals? ](https://youtube.com/shorts/x00BaYhisAA)
+- 
 
 📁 Notebook Directory: `notebooks/interpolation_regression/`
 
@@ -109,6 +111,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Gaussian Quadrature (Single Integral)](https://youtu.be/nDV7Qw08GA8)
 - [Gaussian 3-Point Quadrature](https://youtu.be/f1SJeUdlgoA)
 - [Numerical Differentiation: Three-Point Central Difference Formula](https://youtube.com/shorts/eVuZqEFZj_Q)
+- [State Gauss-n-point quadrature formula](https://youtube.com/shorts/EsxgZRafLrc)
 - 
 
 📁 Notebook Directory: `notebooks/integration/`
@@ -118,10 +121,10 @@ This repository provides a structured set of Python-based resources to understan
 ### 📉 Ordinary Differential Equations (ODEs)
 
 - [Euler’s Method](https://youtu.be/4w_ACMlaZEM)
+- [Differential Equation Order and Degree](https://youtube.com/shorts/TXeKXRzgFHU)
+- [Differential equations classification ](https://youtube.com/shorts/_tHQApV3Ab0)
 - [Modified Euler’s Method](https://youtu.be/rHlje5pENK8)
 - [Taylor Series Method](https://youtu.be/XK2WbNKgxAA)
-- Fourth-Order Runge-Kutta Method
-- Multi-Step Methods: Milne’s Method and Adams-Bashforth Method
 - [Adams-Bashforth & Milne’s Predictor Corrector Method](https://youtu.be/Pib8VsHbVRs)
 - [Numerical differentiation / forward difference / backward difference / central difference](https://youtu.be/ttlxKKiegjc)
 - [Unsteady mass Balance: Mixing Tank (single first order ODE) : RK4 Methods  MATLAB](https://youtu.be/XcwJ3dqtarc)
@@ -143,7 +146,8 @@ This repository provides a structured set of Python-based resources to understan
 
 ### 🌡️ Partial Differential Equations (PDEs)
 
-- Classification of PDEs
+- [Classification of PDEs](https://youtube.com/shorts/PvANl5z_8DY)
+- [Partial Differential Equations Order and Degree of PDEs](https://youtube.com/shorts/o0ArBxIqq-c)
 - Laplace Equation
 - One-Dimensional Heat Flow Equation
 - [Bender-Schmidt Method | Solve 1D Heat Equation using Finite Difference Method](https://youtu.be/9S29KXYgbfo)
