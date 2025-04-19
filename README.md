@@ -20,7 +20,9 @@ This repository provides a structured set of Python-based resources to understan
 - [Matrix Inversion Method](https://youtu.be/gFWOq6r9CRw)
 - [Tridiagonal Matrix for Linear Equations](https://youtu.be/-9cYv4Ozw4w)
 - Gauss-Seidel Iterative Method
-- Gauss-Jordan Method
+- [Gauss Jacobi method ](https://youtu.be/8E8O1nH9dKQ)
+- [Gauss-Jordan Method](https://youtu.be/6ih6b_nxkP4)
+- [Inverse Matrix by Gauss-Jordan Elimination](https://youtu.be/3nJl8qczioA)
 - [Conditions for Solutions of Linear Algebraic Equations](https://youtube.com/shorts/N4oOt9hlsxg)
 - [Singular Matrix and Non singular Matrix](https://youtube.com/shorts/mg63ZQIXi5Q)
 - [Homogeneous Matrix and Non homogeneous Matrix](https://youtube.com/shorts/wn0oBH5S9Gc)
@@ -35,6 +37,9 @@ This repository provides a structured set of Python-based resources to understan
 - [Cramer's Rule - 3x3 Linear System ](https://youtu.be/SfLVYQ94CCI)
 - [Gauss - Jacobi Method](https://youtu.be/DRGIk_33_Pw)
 - [Gauss-Seidel Method for Solving Linear Equations](https://youtu.be/R_Aex-30VfE)
+- [Inverse of a Matrix](https://youtu.be/boMXZC_PqSg)
+- [Gaussian Elimination Method | system of linear equation Gauss Elimination](https://youtu.be/2loQdrK2BI8)
+- 
 - 
 - 
 
