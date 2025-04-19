@@ -65,9 +65,10 @@ This repository provides a structured set of Python-based resources to understan
 
 ### ∫ Numerical Integration
 
-- Trapezoidal Rule
-- Simpson’s 1/3 Rule
-- Gaussian Quadrature (Single Integral)
+- [Trapezoidal Rule](https://youtu.be/VofrnYHi_wQ)
+- [Simpson’s 1/3 Rule](https://youtu.be/fnY6CrAvd6U)
+- [Gaussian Quadrature (Single Integral)](https://youtu.be/nDV7Qw08GA8)
+- 
 
 📁 Notebook Directory: `notebooks/integration/`
 
@@ -79,10 +80,13 @@ This repository provides a structured set of Python-based resources to understan
 - Taylor Series Method
 - Fourth-Order Runge-Kutta Method
 - Multi-Step Methods: Milne’s Method and Adams-Bashforth Method
+- [Adams-Bashforth & Milne’s Predictor Corrector Method](https://youtu.be/Pib8VsHbVRs)
+- [Numerical differentiation / forward difference / backward difference / central difference](https://youtu.be/ttlxKKiegjc)
 - [Unsteady mass Balance: Mixing Tank (single first order ODE) : RK4 Methods  MATLAB](https://youtu.be/XcwJ3dqtarc)
 - [Unsteady mass Balance: Mixing Tank problem (simultaneous first order ODE) : RK4 Methods :  Part-1](https://youtu.be/2zv1wy7RvkY)
 - [Mixing Tank problem simultaneous first order ODE RK4 Methods MATLAB PART-2](https://youtu.be/FHHd_8zt4tM)
 - [Unsteady mass Balance: Mixing Tank (single first order ODE) : RK4 Methods  MATLAB](https://youtu.be/XcwJ3dqtarc)
+- [RK4/ Runge Kutta 4th order Method]()
 
 - 
 - 
