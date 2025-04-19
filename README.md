@@ -38,6 +38,7 @@ This repository provides a structured set of Python-based resources to understan
 - [LU decomposition or LU factorization](https://youtu.be/pn6-Y0LWjhM)
 - [Cramer's Rule - 3x3 Linear System ](https://youtu.be/SfLVYQ94CCI)
 - [Gauss - Jacobi Method](https://youtu.be/DRGIk_33_Pw)
+- [Gauss-Jacobi iterative Method ](https://youtube.com/shorts/BdcVeRt0S74)
 - [Gauss-Seidel Method for Solving Linear Equations](https://youtu.be/R_Aex-30VfE)
 - [Inverse of a Matrix](https://youtu.be/boMXZC_PqSg)
 - [Gaussian Elimination Method | system of linear equation Gauss Elimination](https://youtu.be/2loQdrK2BI8)
@@ -78,11 +79,15 @@ This repository provides a structured set of Python-based resources to understan
 
 #### Interpolation Methods
 - [Newton's Forward Polynomials](https://youtu.be/tcdZoglNFzA)
+- [Newton's Forward Interpolation](https://youtube.com/shorts/um9doYMjsiA)
 - [Newton's Backward Polynomials](https://youtu.be/IwV-mbmFvlM)
+- [Newton's Backward Interpolation](https://youtube.com/shorts/jXKHuplv67I)
 - [Newton's Divided Difference Method](https://youtu.be/ApqSWW81wag)
+- [Newton's Divided Difference Formula](https://youtube.com/shorts/h8_hvgM3yCk)
 - [Lagrange Interpolation](https://youtu.be/SkJgNETD6S4)
 - [Lagrange's Interpolation: MATLAB](https://youtu.be/yvxtCvVH9bs)
 - [Lagrange’s Interpolation Method](https://youtu.be/dCRloHWzmIM)
+- [Lagrange Interpretation](https://youtube.com/shorts/tCvh2FDtQmY)
 - [Least square method for chemical engineering Problem by hand calculation Part -1](https://youtu.be/LDfrT_KJAnY)
 - [Least square method for chemical engineering Problem by Excel:  Part-2](https://youtu.be/Pe8v-IeHBgs)
 - [Least square method for chemical engineering Problem by MATLAB/OCTAVE Part-3](https://youtu.be/fL2SzqFdSP0)
@@ -93,7 +98,7 @@ This repository provides a structured set of Python-based resources to understan
 - 
 
 #### Regression Techniques
-- Linear Regression
+- [Least Square Method](https://youtube.com/shorts/XIVVoT842kw)
 - Polynomial Regression
 - [Least Squares Regression](https://youtu.be/7TR5pzf1EiI)
 - [Least Square Polynomial Fitting](https://youtu.be/HJBQsfa0qp0)
@@ -112,11 +117,16 @@ This repository provides a structured set of Python-based resources to understan
 - [Gaussian 3-Point Quadrature](https://youtu.be/f1SJeUdlgoA)
 - [Numerical Differentiation: Three-Point Central Difference Formula](https://youtube.com/shorts/eVuZqEFZj_Q)
 - [State Gauss-n-point quadrature formula](https://youtube.com/shorts/EsxgZRafLrc)
+- [Three points Gaussian Quadrature Integration](https://youtube.com/shorts/Ra4Yul1dyKo)
+- [Two points Gaussian Quadrature Integration](https://youtube.com/shorts/aBlKu-1rtoM)
+- [Simpson's 1/3 rule for numerical Integration](https://youtube.com/shorts/dNUV-F0t35U)
+- [The Trapezoidal Rule](https://youtube.com/shorts/M0Uwa-LO-4s)
 - 
 
 📁 Notebook Directory: `notebooks/integration/`
 
 ---
+
 
 ### 📉 Ordinary Differential Equations (ODEs)
 
@@ -134,6 +144,15 @@ This repository provides a structured set of Python-based resources to understan
 - [RK4/ Runge Kutta 4th order Method](https://youtu.be/o4sm6J0iKL8)
 - [Numerical solution of Two simultaneous ordinary differential equations by RK4 method (Runge-Kutta)](https://youtu.be/ek5DTXM1Xds)
 - [Second-order ordinary differential equation (ODE) Solution using the Fourth-Order Runge-Kutta method](https://youtu.be/pUhkuTUuJu8)
+- [Solving Initial Value Problems Using Runge-Kutta 4th Order Method](https://youtube.com/shorts/-9pXtIFSrW8)
+- [Solving Initial Value Problems Using Euler's Modified Method (also known as the Midpoint Method)](https://youtube.com/shorts/iVMBreU7-fY)
+- [Solving Initial Value Problems Using Euler's Improved Method, Heun's Method](https://youtube.com/shorts/kRh3miGAz4g)
+- [Solving Initial Value Problems Using Euler's Implicit Method](https://youtube.com/shorts/Z5NnnIhKjyg)
+- [Numerical DifferentiationThree-Point Central Difference Formula](https://youtube.com/shorts/eVuZqEFZj_Q)
+- [Numerical Differentiation Three-Point Forward Difference Formula](https://youtube.com/shorts/8nAjmx-wuSU)
+- [Numerical Differentiation Three-Point Backward Difference Formula](https://youtube.com/shorts/bsk7WtxMut0)
+- 
+- 
 - 
 
 - 
