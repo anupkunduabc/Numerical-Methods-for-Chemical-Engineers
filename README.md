@@ -8,6 +8,7 @@ This repository provides a structured set of Python-based resources to understan
 ---
 - [Software skills required for chemical engineering](https://youtube.com/shorts/NsXC10tVr8g)
 - [Chemical Engineering Job](https://youtube.com/shorts/6lTH-dxQnX8)
+- [Chemical Engineering Graduates: How Software Will Transform Your Career?](https://youtu.be/0ztxwMYelR4)
 ## 📘 Topics Covered
 
 ---
@@ -48,6 +49,7 @@ This repository provides a structured set of Python-based resources to understan
 - Lagrange Interpolation
 - [Lagrange's Interpolation: MATLAB](https://youtu.be/yvxtCvVH9bs)
 - [Least square method for chemical engineering Problem by hand calculation Part -1](https://youtu.be/LDfrT_KJAnY)
+- [Least square method for chemical engineering Problem by Excel:  Part-2](https://youtu.be/Pe8v-IeHBgs)
 - [Least square method for chemical engineering Problem by MATLAB/OCTAVE Part-3](https://youtu.be/fL2SzqFdSP0)
 - [Linearization of Non-Linear equation  and Linear regression or Least square regression](https://youtu.be/ixmdbtb3YFw)
 
@@ -89,6 +91,9 @@ This repository provides a structured set of Python-based resources to understan
 - [Mixing Tank problem simultaneous first order ODE RK4 Methods MATLAB PART-2](https://youtu.be/FHHd_8zt4tM)
 - [Unsteady mass Balance: Mixing Tank (single first order ODE) : RK4 Methods  MATLAB](https://youtu.be/XcwJ3dqtarc)
 - [RK4/ Runge Kutta 4th order Method]()
+- [Numerical solution of Two simultaneous ordinary differential equations by RK4 method (Runge-Kutta)](https://youtu.be/ek5DTXM1Xds)
+- [Second-order ordinary differential equation (ODE) Solution using the Fourth-Order Runge-Kutta method](https://youtu.be/pUhkuTUuJu8)
+- 
 
 - 
 - 
