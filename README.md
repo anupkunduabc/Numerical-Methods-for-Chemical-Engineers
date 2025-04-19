@@ -59,6 +59,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Finding the Cube Root of 20 by Newton Raphson Method](https://youtu.be/0HhcfxbKli8)
 - [Newton Raphson Method ](https://youtu.be/_oMsf7Aex-4)
 - [NR Method](https://youtu.be/Y9PqdUukHOc)
+- [Newton Raphson Method](https://youtube.com/shorts/stbhXLa-BNg)
 - [Newton-Raphson Method Explained](https://youtu.be/jsMadp2kW5g)
 - [Newton-Raphson Method for Single Variable Nonlinear Equation ](https://youtu.be/W-sC2f6Ob-k)
 - [Newton-Raphson Method for Multivariable Nonlinear System](https://youtu.be/d3sCWoXQzmY)
@@ -124,11 +125,10 @@ This repository provides a structured set of Python-based resources to understan
 - [Two points Gaussian Quadrature Integration](https://youtube.com/shorts/aBlKu-1rtoM)
 - [Simpson's 1/3 rule for numerical Integration](https://youtube.com/shorts/dNUV-F0t35U)
 - [The Trapezoidal Rule](https://youtube.com/shorts/M0Uwa-LO-4s)
-- 
+
 
 📁 Notebook Directory: `notebooks/integration/`
 
----
 
 
 ### 📉 Ordinary Differential Equations (ODEs)
@@ -154,13 +154,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Numerical DifferentiationThree-Point Central Difference Formula](https://youtube.com/shorts/eVuZqEFZj_Q)
 - [Numerical Differentiation Three-Point Forward Difference Formula](https://youtube.com/shorts/8nAjmx-wuSU)
 - [Numerical Differentiation Three-Point Backward Difference Formula](https://youtube.com/shorts/bsk7WtxMut0)
-- 
-- 
-- 
 
-- 
-- 
-- 
 
 📁 Notebook Directory: `notebooks/ODE/`
 
