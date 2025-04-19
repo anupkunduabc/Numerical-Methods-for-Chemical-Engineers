@@ -6,7 +6,8 @@ This repository provides a structured set of Python-based resources to understan
 📺 YouTube Channel: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 ---
-
+- [Software skills required for chemical engineering](https://youtube.com/shorts/NsXC10tVr8g)
+- [Chemical Engineering Job](https://youtube.com/shorts/6lTH-dxQnX8)
 ## 📘 Topics Covered
 
 ---
@@ -19,12 +20,21 @@ This repository provides a structured set of Python-based resources to understan
 - Gauss-Seidel Iterative Method
 - Gauss-Jordan Method
 - [Reactor mass balance : Gauss Seidel Method  : MATLAB](https://youtu.be/ZtrqIr3SC_k)
+- [Solving a system of linear equations using Excel solver](https://youtu.be/zOnWgYzaoBc)
+- [Solving set of  Non linear equation using EXCEL SOLVER ](https://youtu.be/ac6JpJUhpDE)
+- [LU Decomposition: system of Linear Equations](https://youtu.be/Zgn7YqGkQC8)
+- [Gauss Elimination  & Gauss Jordon & Cramer’s rule](https://youtu.be/9ajJD3DpidI)
+- [Gauss Jacobi & Gauss Seidel Method for solving Linear Equations](https://youtu.be/zOnWgYzaoBc)
+- 
 
 #### Nonlinear Algebraic & Transcendental Equations
 - Bisection Method
-- Newton-Raphson Method
+- [Newton-Raphson Method](https://youtu.be/C29C7s5UOwA)
 - Secant Method
+- [Regula Falsi Method / False Position Method](https://youtu.be/3Az6Dum5c7Q)
+- [Bisection method to solve nonlinear equations](https://youtu.be/_nPNaxBnft4)
 - [Friction Factor and Pressure drop Calculation: Newton Raphson Method](https://youtu.be/om2nFFVSbvE)
+- [Secant Method to Solve Non-Linear Equation](https://youtu.be/whZHk17TcFo)
 
 📁 Notebook Directory: `notebooks/solution_of_equations/`
 
@@ -39,7 +49,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Least square method for chemical engineering Problem by hand calculation Part -1](https://youtu.be/LDfrT_KJAnY)
 - [Least square method for chemical engineering Problem by MATLAB/OCTAVE Part-3](https://youtu.be/fL2SzqFdSP0)
 - [Linearization of Non-Linear equation  and Linear regression or Least square regression](https://youtu.be/ixmdbtb3YFw)
-- [Solving a system of linear equations using Excel solver](https://youtu.be/zOnWgYzaoBc)
+
 - 
 - 
 - 
