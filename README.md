@@ -35,6 +35,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Bisection method to solve nonlinear equations](https://youtu.be/_nPNaxBnft4)
 - [Friction Factor and Pressure drop Calculation: Newton Raphson Method](https://youtu.be/om2nFFVSbvE)
 - [Secant Method to Solve Non-Linear Equation](https://youtu.be/whZHk17TcFo)
+- [Multivariable Newton-Raphson method for solving  two non-linear equations](https://youtu.be/1Mjp86-l9uY)
 
 📁 Notebook Directory: `notebooks/solution_of_equations/`
 
@@ -76,7 +77,8 @@ This repository provides a structured set of Python-based resources to understan
 
 ### 📉 Ordinary Differential Equations (ODEs)
 
-- Euler’s Method
+- [Euler’s Method](https://youtu.be/4w_ACMlaZEM)
+- [Modified Euler’s Method](https://youtu.be/rHlje5pENK8)
 - Taylor Series Method
 - Fourth-Order Runge-Kutta Method
 - Multi-Step Methods: Milne’s Method and Adams-Bashforth Method
