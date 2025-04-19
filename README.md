@@ -44,7 +44,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Gauss-Jacobi iterative Method ](https://youtube.com/shorts/BdcVeRt0S74)
 - [Gauss-Seidel Method for Solving Linear Equations](https://youtu.be/R_Aex-30VfE)
 - [Inverse of a Matrix](https://youtu.be/boMXZC_PqSg)
-- [Gaussian Elimination Method | system of linear equation Gauss Elimination](https://youtu.be/2loQdrK2BI8)
+- [Gaussian Elimination Method ](https://youtu.be/2loQdrK2BI8)
 - [Example of Steady State Mass balance Three Reactors System ](https://youtu.be/pIjmFIol7TI)
 - [Why Gauss-Seidel Method Fails | Convergence Condition Explained with Example](https://youtu.be/Yfxqh6R2g2k)
 - [Define partial and complete pivoting in the solution of linear simultaneous equations.](https://youtube.com/shorts/YXA7acfPunk)
