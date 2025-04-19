@@ -16,10 +16,14 @@ This repository provides a structured set of Python-based resources to understan
 ### 🧮 Solution of Equations
 
 #### Linear Algebraic Systems
-- Gauss Elimination Method
+- [Gauss Elimination Method](https://youtu.be/oPw4kXUt_zk)
 - Matrix Inversion Method
 - Gauss-Seidel Iterative Method
 - Gauss-Jordan Method
+- [Conditions for Solutions of Linear Algebraic Equations](https://youtube.com/shorts/N4oOt9hlsxg)
+- [Singular Matrix and Non singular Matrix](https://youtube.com/shorts/mg63ZQIXi5Q)
+- [Homogeneous Matrix and Non homogeneous Matrix](https://youtube.com/shorts/wn0oBH5S9Gc)
+- [Error Definitions](https://youtube.com/shorts/CiOhalUxoSI)
 - [Reactor mass balance : Gauss Seidel Method  : MATLAB](https://youtu.be/ZtrqIr3SC_k)
 - [Solving a system of linear equations using Excel solver](https://youtu.be/zOnWgYzaoBc)
 - [Solving set of  Non linear equation using EXCEL SOLVER ](https://youtu.be/ac6JpJUhpDE)
@@ -29,12 +33,15 @@ This repository provides a structured set of Python-based resources to understan
 - 
 
 #### Nonlinear Algebraic & Transcendental Equations
-- Bisection Method
+- [Bisection Method](https://youtube.com/shorts/_9eis44ow34)
 - [Newton-Raphson Method](https://youtu.be/C29C7s5UOwA)
+- [Newton Raphson Method](https://youtube.com/shorts/zuumVucpgTY)
 - Secant Method
 - [Regula Falsi Method / False Position Method](https://youtu.be/3Az6Dum5c7Q)
+- [Regula Falsi Method](https://youtube.com/shorts/i33bxubrBLE)
 - [Bisection method to solve nonlinear equations](https://youtu.be/_nPNaxBnft4)
 - [Friction Factor and Pressure drop Calculation: Newton Raphson Method](https://youtu.be/om2nFFVSbvE)
+- [Friction Factor calculation by MATLAB Using the Colebrook Equation](https://youtu.be/Jm-30TlsBWI)
 - [Secant Method to Solve Non-Linear Equation](https://youtu.be/whZHk17TcFo)
 - [Multivariable Newton-Raphson method for solving  two non-linear equations](https://youtu.be/1Mjp86-l9uY)
 
@@ -90,7 +97,7 @@ This repository provides a structured set of Python-based resources to understan
 - [Unsteady mass Balance: Mixing Tank problem (simultaneous first order ODE) : RK4 Methods :  Part-1](https://youtu.be/2zv1wy7RvkY)
 - [Mixing Tank problem simultaneous first order ODE RK4 Methods MATLAB PART-2](https://youtu.be/FHHd_8zt4tM)
 - [Unsteady mass Balance: Mixing Tank (single first order ODE) : RK4 Methods  MATLAB](https://youtu.be/XcwJ3dqtarc)
-- [RK4/ Runge Kutta 4th order Method]()
+- [RK4/ Runge Kutta 4th order Method](https://youtu.be/o4sm6J0iKL8)
 - [Numerical solution of Two simultaneous ordinary differential equations by RK4 method (Runge-Kutta)](https://youtu.be/ek5DTXM1Xds)
 - [Second-order ordinary differential equation (ODE) Solution using the Fourth-Order Runge-Kutta method](https://youtu.be/pUhkuTUuJu8)
 - 
