@@ -2,7 +2,7 @@
 
 This repository provides a structured set of Python-based resources to understand and apply numerical methods in solving chemical engineering problems. The content is organized by topic, with Jupyter notebooks, references, and project ideas.
 
-👨‍🏫 Instructor: Dr. Anup Kundu  
+ 
 📺 YouTube Channel: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 ---
@@ -108,5 +108,5 @@ jupyter lab
 
 ---
 
-📧 **Contact**: anupkundu@gmail.com  
+
 🌐 **Subscribe**: [YouTube - Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
