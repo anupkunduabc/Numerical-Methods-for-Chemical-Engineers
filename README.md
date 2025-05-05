@@ -165,8 +165,9 @@ This repository provides a structured set of Python-based resources to understan
 - Laplace Equation
 - One-Dimensional Heat Flow Equation
 - [Bender-Schmidt Method | Solve 1D Heat Equation using Finite Difference Method](https://youtu.be/9S29KXYgbfo)
-  - Explicit Scheme
-  - Implicit Scheme (Crank-Nicholson Method)
+  - [solve the 1D Heat Equation using the Crank-Nicolson method combined with the Gauss-Seidel iterative.](https://youtu.be/YSsGRLEPj-s)
+  - [Heat Equation Solved Using Crank-Nicolson and Gauss-Seidel Methods | Step-by-Step Tutorial](https://youtu.be/ZnW6-1982Vo)
+  - [Crank-Nicolson Method for Parabolic PDEs](https://youtu.be/7L6fIZSVnYU)
   - [CRANK - NICHOLSON METHOD  partial differential equations Heat equations](https://youtu.be/VYoxEqphmLU)
 
 📁 Notebook Directory: `notebooks/PDE/`
